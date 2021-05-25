@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @june-peridot
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning frontend
